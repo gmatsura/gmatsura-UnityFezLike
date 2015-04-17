@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\2D Tile Practice Proj\Assets\Scripts\UIManager.cs">
+    <Files>
+      <File FileName="..\2D Tile Practice Proj\Assets\Scripts\MenuCam.cs" Line="25" Column="3" />
+      <File FileName="..\2D Tile Practice Proj\Assets\Scripts\UIManager.cs" Line="53" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
